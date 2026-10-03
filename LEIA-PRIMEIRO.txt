@@ -1,0 +1,9 @@
+RS CONSTRUÇÕES E REFORMAS — VERCEL
+
+Extraia o ZIP inteiro. O site está em a pasta public.
+Leia os guias na pasta guias antes de publicar. Todos os assets estão incluídos.
+Vercel: framework Other, sem build, saída public (somente nos pacotes Vercel e Completo).
+Netlify: envio manual da pasta que contém index.html; Git segue netlify.toml.
+Imagens WebP: logotipo sem perdas; foto em 2400 px, qualidade 88.
+HTML/CSS/JS e funções preservados; Google Fonts e canais externos precisam de internet.
+Sem credenciais ou vínculo obrigatório com ChatGPT.
